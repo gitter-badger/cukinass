@@ -98,6 +98,7 @@
 
   ```
   $ echo boooom > ./toass.pipe && sleep 1 && cat fromass.pipe && rm ./fromass.pipe
+  ```
 
   * Останавливаем `ass_side_cuke`
 
