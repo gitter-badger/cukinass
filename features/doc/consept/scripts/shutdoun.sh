@@ -1,0 +1,1 @@
+echo "['ShutDown',{}]" > toass.pipe
